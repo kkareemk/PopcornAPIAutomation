@@ -2,12 +2,10 @@
 
 REST API Automation
 
-This framework is to validate REST API's.
+This framework is to validate REST API's and is developed using Java, RestAssured & Cucumber
 
 ## Concepts Included
 
-* Page Object pattern
-* 
 * Externalised configurations - endpoint url, tokens etc..
 * Commonly used test utility classes - property reader, file handler etc..
 
